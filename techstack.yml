@@ -2,7 +2,7 @@ repo_name: 2lambda123/react-native-interactable
 report_id: 47ebf4c719a09c0cf0acf1ad88cd6b1d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:54:00+00:00'
+timestamp: '2024-02-29T19:16:31+00:00'
 requested_by: d4vidi
 provider: github
 branch: master
@@ -53,7 +53,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/react-native-interactable
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
